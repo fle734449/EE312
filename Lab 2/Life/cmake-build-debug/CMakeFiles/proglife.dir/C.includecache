@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/voch1/CLionProjects/proglife/life.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+C:/Users/voch1/CLionProjects/proglife/string.h
+life.h
+C:/Users/voch1/CLionProjects/proglife/life.h
+
+C:/Users/voch1/CLionProjects/proglife/life.h
+
+C:/Users/voch1/CLionProjects/proglife/life_driver.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+life.h
+C:/Users/voch1/CLionProjects/proglife/life.h
+life.c
+C:/Users/voch1/CLionProjects/proglife/life.c
+string.h
+C:/Users/voch1/CLionProjects/proglife/string.h
+

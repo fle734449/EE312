@@ -1,0 +1,3 @@
+C:/Users/voch1/CLionProjects/proglife/cmake-build-debug/CMakeFiles/proglife.dir
+C:/Users/voch1/CLionProjects/proglife/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/voch1/CLionProjects/proglife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
