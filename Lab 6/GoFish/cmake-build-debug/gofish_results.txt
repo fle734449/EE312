@@ -1,0 +1,311 @@
+Frank's Hand: 6s 3c Jh 8s 10h Ah 9c 
+Andy's Hand: Qh 6h Js Ks 4h 9h 2h 
+
+
+Frank asks - Do you have a 6
+Andy says - Yes. I have a 6
+Frank books the 6s 6h
+Frank asks - Do you have a 3
+Andy says - Go Fish
+Frank draws 3h
+Frank books the 3c 3h
+Frank's Hand: Jh 8s 10h Ah 9c 
+Andy's Hand: Qh Js Ks 4h 9h 2h 
+
+
+Andy asks - Do you have a Q
+Frank says - Go Fish
+Andy draws 5h
+Frank's Hand: Jh 8s 10h Ah 9c 
+Andy's Hand: Qh Js Ks 4h 9h 2h 5h 
+
+
+Frank asks - Do you have a J
+Andy says - Yes. I have a J
+Frank books the Jh Js
+Frank asks - Do you have a A
+Andy says - Go Fish
+Frank draws 4c
+Frank's Hand: 8s 10h Ah 9c 4c 
+Andy's Hand: Qh Ks 4h 9h 2h 5h 
+
+
+Andy asks - Do you have a Q
+Frank says - Go Fish
+Andy draws 5c
+Andy books the 5h 5c
+Frank's Hand: 8s 10h Ah 9c 4c 
+Andy's Hand: Qh Ks 4h 9h 2h 
+
+
+Frank asks - Do you have a 9
+Andy says - Yes. I have a 9
+Frank books the 9c 9h
+Frank asks - Do you have a 8
+Andy says - Go Fish
+Frank draws 10s
+Frank books the 10h 10s
+Frank's Hand: 8s Ah 4c 
+Andy's Hand: Qh Ks 4h 2h 
+
+
+Andy asks - Do you have a Q
+Frank says - Go Fish
+Andy draws 6c
+Frank's Hand: 8s Ah 4c 
+Andy's Hand: Qh Ks 4h 2h 6c 
+
+
+Frank asks - Do you have a 8
+Andy says - Go Fish
+Frank draws 8h
+Frank books the 8s 8h
+Frank's Hand: Ah 4c 
+Andy's Hand: Qh Ks 4h 2h 6c 
+
+
+Andy asks - Do you have a Q
+Frank says - Go Fish
+Andy draws 4d
+Andy books the 4h 4d
+Frank's Hand: Ah 4c 
+Andy's Hand: Qh Ks 2h 6c 
+
+
+Frank asks - Do you have a 4
+Andy says - Go Fish
+Frank draws Ad
+Frank books the Ah Ad
+Frank's Hand: 4c 
+Andy's Hand: Qh Ks 2h 6c 
+
+
+Andy asks - Do you have a Q
+Frank says - Go Fish
+Andy draws Kd
+Andy books the Ks Kd
+Frank's Hand: 4c 
+Andy's Hand: Qh 2h 6c 
+
+
+Frank asks - Do you have a 4
+Andy says - Go Fish
+Frank draws Kh
+Frank's Hand: 4c Kh 
+Andy's Hand: Qh 2h 6c 
+
+
+Andy asks - Do you have a 2
+Frank says - Go Fish
+Andy draws 7h
+Frank's Hand: 4c Kh 
+Andy's Hand: Qh 2h 6c 7h 
+
+
+Frank asks - Do you have a K
+Andy says - Go Fish
+Frank draws 7s
+Frank's Hand: 4c Kh 7s 
+Andy's Hand: Qh 2h 6c 7h 
+
+
+Andy asks - Do you have a 2
+Frank says - Go Fish
+Andy draws As
+Frank's Hand: 4c Kh 7s 
+Andy's Hand: Qh 2h 6c 7h As 
+
+
+Frank asks - Do you have a 4
+Andy says - Go Fish
+Frank draws Jc
+Frank's Hand: 4c Kh 7s Jc 
+Andy's Hand: Qh 2h 6c 7h As 
+
+
+Andy asks - Do you have a 2
+Frank says - Go Fish
+Andy draws Qc
+Andy books the Qh Qc
+Frank's Hand: 4c Kh 7s Jc 
+Andy's Hand: 2h 6c 7h As 
+
+
+Frank asks - Do you have a 7
+Andy says - Yes. I have a 7
+Frank books the 7s 7h
+Frank asks - Do you have a K
+Andy says - Go Fish
+Frank draws 3s
+Frank's Hand: 4c Kh Jc 3s 
+Andy's Hand: 2h 6c As 
+
+
+Andy asks - Do you have a 6
+Frank says - Go Fish
+Andy draws 9d
+Frank's Hand: 4c Kh Jc 3s 
+Andy's Hand: 2h 6c As 9d 
+
+
+Frank asks - Do you have a 3
+Andy says - Go Fish
+Frank draws 7c
+Frank's Hand: 4c Kh Jc 3s 7c 
+Andy's Hand: 2h 6c As 9d 
+
+
+Andy asks - Do you have a 2
+Frank says - Go Fish
+Andy draws 5d
+Frank's Hand: 4c Kh Jc 3s 7c 
+Andy's Hand: 2h 6c As 9d 5d 
+
+
+Frank asks - Do you have a 4
+Andy says - Go Fish
+Frank draws 3d
+Frank books the 3s 3d
+Frank's Hand: 4c Kh Jc 7c 
+Andy's Hand: 2h 6c As 9d 5d 
+
+
+Andy asks - Do you have a 2
+Frank says - Go Fish
+Andy draws 8c
+Frank's Hand: 4c Kh Jc 7c 
+Andy's Hand: 2h 6c As 9d 5d 8c 
+
+
+Frank asks - Do you have a K
+Andy says - Go Fish
+Frank draws 6d
+Frank's Hand: 4c Kh Jc 7c 6d 
+Andy's Hand: 2h 6c As 9d 5d 8c 
+
+
+Andy asks - Do you have a 9
+Frank says - Go Fish
+Andy draws Ac
+Andy books the As Ac
+Frank's Hand: 4c Kh Jc 7c 6d 
+Andy's Hand: 2h 6c 9d 5d 8c 
+
+
+Frank asks - Do you have a K
+Andy says - Go Fish
+Frank draws Jd
+Frank books the Jc Jd
+Frank's Hand: 4c Kh 7c 6d 
+Andy's Hand: 2h 6c 9d 5d 8c 
+
+
+Andy asks - Do you have a 9
+Frank says - Go Fish
+Andy draws 10d
+Frank's Hand: 4c Kh 7c 6d 
+Andy's Hand: 2h 6c 9d 5d 8c 10d 
+
+
+Frank asks - Do you have a 7
+Andy says - Go Fish
+Frank draws 7d
+Frank books the 7c 7d
+Frank's Hand: 4c Kh 6d 
+Andy's Hand: 2h 6c 9d 5d 8c 10d 
+
+
+Andy asks - Do you have a 9
+Frank says - Go Fish
+Andy draws 9s
+Andy books the 9d 9s
+Frank's Hand: 4c Kh 6d 
+Andy's Hand: 2h 6c 5d 8c 10d 
+
+
+Frank asks - Do you have a K
+Andy says - Go Fish
+Frank draws Qs
+Frank's Hand: 4c Kh 6d Qs 
+Andy's Hand: 2h 6c 5d 8c 10d 
+
+
+Andy asks - Do you have a 8
+Frank says - Go Fish
+Andy draws 5s
+Andy books the 5d 5s
+Frank's Hand: 4c Kh 6d Qs 
+Andy's Hand: 2h 6c 8c 10d 
+
+
+Frank asks - Do you have a K
+Andy says - Go Fish
+Frank draws 10c
+Frank's Hand: 4c Kh 6d Qs 10c 
+Andy's Hand: 2h 6c 8c 10d 
+
+
+Andy asks - Do you have a 8
+Frank says - Go Fish
+Andy draws Kc
+Frank's Hand: 4c Kh 6d Qs 10c 
+Andy's Hand: 2h 6c 8c 10d Kc 
+
+
+Frank asks - Do you have a 10
+Andy says - Yes. I have a 10
+Frank books the 10c 10d
+Frank asks - Do you have a Q
+Andy says - Go Fish
+Frank draws 2c
+Frank's Hand: 4c Kh 6d Qs 2c 
+Andy's Hand: 2h 6c 8c Kc 
+
+
+Andy asks - Do you have a 2
+Frank says - Yes. I have a 2
+Andy books the 2h 2c
+Andy asks - Do you have a 8
+Frank says - Go Fish
+Andy draws 8d
+Andy books the 8c 8d
+Frank's Hand: 4c Kh 6d Qs 
+Andy's Hand: 6c Kc 
+
+
+Frank asks - Do you have a K
+Andy says - Yes. I have a K
+Frank books the Kh Kc
+Frank asks - Do you have a 6
+Andy says - Yes. I have a 6
+Frank books the 6d 6c
+Frank asks - Do you have a Q
+Andy says - Go Fish
+Frank draws Qd
+Frank books the Qs Qd
+Frank's Hand: 4c 
+Andy's Hand: 
+
+
+Andy draws 2d
+Frank's Hand: 4c 
+Andy's Hand: 2d 
+
+
+Frank asks - Do you have a 4
+Andy says - Go Fish
+Frank draws 4s
+Frank books the 4c 4s
+Frank's Hand: 
+Andy's Hand: 2d 
+
+
+Andy asks - Do you have a 2
+Frank says - Go Fish
+Andy draws 2s
+Andy books the 2d 2s
+Frank's Hand: 
+Andy's Hand: 
+Frank's Books: 6s 6h 3c 3h Jh Js 9c 9h 10h 10s 8s 8h Ah Ad 7s 7h 3s 3d Jc Jd 7c 7d 10c 10d Kh Kc 6d 6c Qs Qd 4c 4s 
+Andy's Books: 5h 5c 4h 4d Ks Kd Qh Qc As Ac 9d 9s 5d 5s 2h 2c 8c 8d 2d 2s 
+Frank wins!
