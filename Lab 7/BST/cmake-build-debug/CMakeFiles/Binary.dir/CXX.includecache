@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/voch1/CLionProjects/Binary/BST312.h
+cstdlib
+-
+iostream
+-
+vector
+-
+string
+-
+
+C:/Users/voch1/CLionProjects/Binary/main.cpp
+iostream
+-
+fstream
+-
+BST312.h
+C:/Users/voch1/CLionProjects/Binary/BST312.h
+
