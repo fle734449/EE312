@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/voch1/CLionProjects/Linked/driver.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+C:/Users/voch1/CLionProjects/Linked/string.h
+stack312_ll.h
+C:/Users/voch1/CLionProjects/Linked/stack312_ll.h
+
+C:/Users/voch1/CLionProjects/Linked/stack312_ll.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+C:/Users/voch1/CLionProjects/Linked/string.h
+
