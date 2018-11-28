@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/voch1/CLionProjects/flood_fill/flood_fill.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+C:/Users/voch1/CLionProjects/flood_fill/string.h
+

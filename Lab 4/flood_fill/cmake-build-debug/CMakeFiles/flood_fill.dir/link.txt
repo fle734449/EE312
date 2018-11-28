@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\flood_fill.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\flood_fill.dir/objects.a @CMakeFiles\flood_fill.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\flood_fill.dir/objects.a -Wl,--no-whole-archive  -o flood_fill.exe -Wl,--out-implib,libflood_fill.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\flood_fill.dir\linklibs.rsp
