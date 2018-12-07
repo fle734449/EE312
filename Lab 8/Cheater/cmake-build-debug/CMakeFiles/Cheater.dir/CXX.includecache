@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/voch1/CLionProjects/Cheater/plagiarismCatcher.cpp
+algorithm
+-
+cstdlib
+-
+cstring
+-
+sys/types.h
+-
+dirent.h
+-
+errno.h
+-
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+list
+-
+ctime
+-
+queue
+-
+math.h
+-
+cmath
+-
+
